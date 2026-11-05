@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EBE",
+    "BSB",
+    "ENE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "B": {
+      "item": "minecraft:book"
+    },
+    "S": {
+      "item": "nekoroshop:shop_table"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "nekoroshop:shop_catalog",
+    "count": 1
+  }
+}

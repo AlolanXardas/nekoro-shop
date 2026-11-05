@@ -1,0 +1,44 @@
+plugins {
+    id 'fabric-loom' version '1.17.20'
+    id 'java-library'
+}
+
+version = mod_version
+group = 'dev.xardas'
+base.archivesName = 'nekoroshop'
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+sourceSets.main {
+    java.srcDirs '../common/java-core', '../common/java-fabric'
+    resources.srcDir '../common/resources'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${minecraft_version}"
+    mappings loom.officialMojangMappings()
+    modImplementation "net.fabricmc:fabric-loader:${loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_version}"
+}
+
+processResources {
+    inputs.property 'version', version
+    filesMatching('fabric.mod.json') {
+        expand version: version
+    }
+}
+
+jar {
+    from('../../LICENSE')
+}
+
+remapJar {
+    archiveFileName = "Nekoro-S-${version}-Fabric-${minecraft_version}.jar"
+}

@@ -1,0 +1,11 @@
+{
+  // The category buttons above the shop. "All" is always first. With creative_tabs, every creative inventory
+  // tab (vanilla and mods) is a category too, with its icon and name, holding what it holds in creative.
+  "creative_tabs": true,
+  // Own categories, shown after "All" and before the creative tabs, e.g.
+  //   { "name": "Coins", "icon": "nekorocoins:coin010", "items": [ "#nekorocoins:coins" ] }
+  // "items": "minecraft:bread" (one item), "#c:foods" (a tag), "cobblemon:*" or "minecraft:*_log"
+  // (* matches any text), "*" (everything) and "[blocks]" (every block). An empty list shows what no other
+  // own category shows. Categories with nothing in them at the moment are not shown.
+  "categories": []
+}

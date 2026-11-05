@@ -1,0 +1,400 @@
+{
+  "buy": [
+    {
+      "item": "nekorocoins:coin006",
+      "price": 1
+    },
+    {
+      "item": "nekorocoins:coin036",
+      "price": 10
+    },
+    {
+      "item": "nekorocoins:coin010",
+      "price": 100
+    },
+    {
+      "item": "nekorocoins:coin016",
+      "price": 1000
+    },
+    {
+      "item": "nekorocoins:coin031",
+      "price": 10000
+    },
+    {
+      "item": "nekorocoins:coin021",
+      "price": 100000
+    },
+    {
+      "item": "nekorocoins:coin040",
+      "price": 1000000
+    },
+    {
+      "item": "cobblemon:poke_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:cherish_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:ancient_roseate_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:repeat_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:roseate_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:luxury_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:heal_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:ancient_citrine_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:citrine_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:verdant_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:friend_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:ancient_verdant_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:azure_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:ancient_feather_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:great_ball",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:ancient_azure_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:slate_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:ancient_heavy_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:ancient_slate_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:ancient_ivory_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:premier_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:sport_ball",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:safari_ball",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:ancient_wing_ball",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:ancient_great_ball",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:ancient_leaden_ball",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:lure_ball",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:ancient_jet_ball",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:ancient_ultra_ball",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:ultra_ball",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:ancient_gigaton_ball",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:park_ball",
+      "price": 250
+    },
+    {
+      "item": "cobblemon:dusk_ball",
+      "price": 300
+    },
+    {
+      "item": "cobblemon:net_ball",
+      "price": 300
+    },
+    {
+      "item": "cobblemon:dive_ball",
+      "price": 350
+    },
+    {
+      "item": "cobblemon:fast_ball",
+      "price": 400
+    },
+    {
+      "item": "cobblemon:level_ball",
+      "price": 400
+    },
+    {
+      "item": "cobblemon:nest_ball",
+      "price": 400
+    },
+    {
+      "item": "cobblemon:heavy_ball",
+      "price": 400
+    },
+    {
+      "item": "cobblemon:moon_ball",
+      "price": 400
+    },
+    {
+      "item": "cobblemon:timer_ball",
+      "price": 400
+    },
+    {
+      "item": "cobblemon:dream_ball",
+      "price": 400
+    },
+    {
+      "item": "cobblemon:quick_ball",
+      "price": 500
+    },
+    {
+      "item": "cobblemon:beast_ball",
+      "price": 500
+    },
+    {
+      "item": "cobblemon:love_ball",
+      "price": 800
+    },
+    {
+      "item": "cobblemon:ancient_origin_ball",
+      "price": 10000000
+    },
+    {
+      "item": "cobblemon:master_ball",
+      "price": 10000000
+    },
+    {
+      "item": "minecraft:dirt",
+      "price": 10
+    },
+    {
+      "item": "minecraft:gravel",
+      "price": 10
+    },
+    {
+      "item": "minecraft:sand",
+      "price": 10
+    },
+    {
+      "item": "minecraft:red_sand",
+      "price": 10
+    },
+    {
+      "item": "minecraft:terracotta",
+      "price": 10
+    },
+    {
+      "item": "minecraft:clay",
+      "price": 100
+    },
+    {
+      "item": "farmersdelight:dog_food",
+      "price": 50
+    },
+    {
+      "item": "herbalbrews:green_tea",
+      "price": 100
+    },
+    {
+      "item": "herbalbrews:black_tea",
+      "price": 250
+    },
+    {
+      "item": "herbalbrews:coffee",
+      "price": 250
+    },
+    {
+      "item": "brewery:beer_wheat",
+      "price": 500
+    },
+    {
+      "item": "minecraft:potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "legendarysurvivaloverhaul:heat_resistance_long"
+        }
+      },
+      "price": 500
+    },
+    {
+      "item": "minecraft:potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "legendarysurvivaloverhaul:cold_immunity_long"
+        }
+      },
+      "price": 500
+    },
+    {
+      "item": "vinery:cherry_wine",
+      "price": 1000
+    },
+    {
+      "item": "nekorocoins:coin090",
+      "price": 10000
+    }
+  ],
+  "sell": [
+    {
+      "item": "nekorocoins:coin006",
+      "price": 1
+    },
+    {
+      "item": "nekorocoins:coin036",
+      "price": 10
+    },
+    {
+      "item": "nekorocoins:coin010",
+      "price": 100
+    },
+    {
+      "item": "nekorocoins:coin016",
+      "price": 1000
+    },
+    {
+      "item": "nekorocoins:coin031",
+      "price": 10000
+    },
+    {
+      "item": "nekorocoins:coin021",
+      "price": 100000
+    },
+    {
+      "item": "nekorocoins:coin040",
+      "price": 1000000
+    },
+    {
+      "item": "cobblemon:poke_ball",
+      "price": 10
+    },
+    {
+      "item": "cobblemon:great_ball",
+      "price": 15
+    },
+    {
+      "item": "cobblemon:ultra_ball",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:master_ball",
+      "price": 100000
+    },
+    {
+      "item": "minecraft:coal",
+      "price": 10
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "price": 1
+    },
+    {
+      "item": "minecraft:diorite",
+      "price": 1
+    },
+    {
+      "item": "minecraft:granite",
+      "price": 1
+    },
+    {
+      "item": "minecraft:andesite",
+      "price": 1
+    },
+    {
+      "item": "minecraft:oak_log",
+      "price": 1
+    },
+    {
+      "item": "minecraft:spruce_log",
+      "price": 1
+    },
+    {
+      "item": "minecraft:birch_log",
+      "price": 1
+    },
+    {
+      "item": "minecraft:jungle_log",
+      "price": 1
+    },
+    {
+      "item": "minecraft:acacia_log",
+      "price": 1
+    },
+    {
+      "item": "minecraft:dark_oak_log",
+      "price": 1
+    },
+    {
+      "item": "minecraft:mangrove_log",
+      "price": 1
+    },
+    {
+      "item": "minecraft:cherry_log",
+      "price": 1
+    },
+    {
+      "item": "minecraft:cake",
+      "price": 100
+    },
+    {
+      "item": "farmersdelight:hamburger",
+      "price": 100
+    },
+    {
+      "item": "farm_and_charm:oat_pancake",
+      "price": 100
+    }
+  ]
+}

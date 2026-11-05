@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+    modId = "nekoroshop"
+    version = "${version}"
+    displayName = "Nekoro Shop"
+    authors = "Alolan Xardas"
+    description = '''
+A shop with its own money. Buy from and sell to the server shop, and sell to other players on a shared market at your own prices. Operators can change the server shop in game, and the money works with commands, so modpacks can choose how players earn it.
+'''
+
+[[dependencies.nekoroshop]]
+    modId = "neoforge"
+    type = "required"
+    versionRange = "[21.1,)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.nekoroshop]]
+    modId = "minecraft"
+    type = "required"
+    versionRange = "[1.21.1,1.22)"
+    ordering = "NONE"
+    side = "BOTH"

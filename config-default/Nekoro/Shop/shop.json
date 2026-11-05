@@ -1,0 +1,28 @@
+{
+  // The name of the money, and its short form used in the shop and in messages.
+  "currency_name": "Nekoro Coins",
+  "currency_short": "NC",
+  // an item drawn small next to the balance, e.g. "nekorocoins:coin010"; empty = none
+  "currency_icon": "",
+  // money every new player starts with
+  "start_balance": 0,
+  // /balance and /pay for every player (/nekoroshop for operators is always there)
+  "player_commands": true,
+  // What the server sells (Buy) and buys (Sell) is in server_shop.json. Operators can change it in game with
+  // the Edit button, or in the file: "item", optional "components", "price" per piece, and optional limits of
+  // pieces per day: "daily_limit" for each player and "server_daily_limit" for all players together (0 = none).
+  // The day follows the clock of the computer the server runs on.
+  "market": {
+    // players can sell items to each other at their own prices
+    "enabled": true,
+    // percent of every sale between players that disappears instead of going to the seller (0-100)
+    "tax_percent": 0,
+    // how many offers one player can have at the same time (expired ones count until taken back)
+    "max_offers": 54,
+    // days an offer stays on the market (decimals work, 0 = forever); then only its seller sees it,
+    // and can take the items back or list them again
+    "offer_days": 7,
+    // items that cannot be offered: "minecraft:dirt" (one item), "#c:ores" (a tag), "somemod:*" (* matches any text)
+    "blocked": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "buy": [
+    {
+      "item": "nekorocoins:coin006",
+      "price": 1
+    },
+    {
+      "item": "nekorocoins:coin036",
+      "price": 10
+    },
+    {
+      "item": "nekorocoins:coin010",
+      "price": 100
+    },
+    {
+      "item": "nekorocoins:coin016",
+      "price": 1000
+    },
+    {
+      "item": "nekorocoins:coin031",
+      "price": 10000
+    },
+    {
+      "item": "nekorocoins:coin021",
+      "price": 100000
+    },
+    {
+      "item": "nekorocoins:coin040",
+      "price": 1000000
+    }
+  ],
+  "sell": [
+    {
+      "item": "nekorocoins:coin006",
+      "price": 1
+    },
+    {
+      "item": "nekorocoins:coin036",
+      "price": 10
+    },
+    {
+      "item": "nekorocoins:coin010",
+      "price": 100
+    },
+    {
+      "item": "nekorocoins:coin016",
+      "price": 1000
+    },
+    {
+      "item": "nekorocoins:coin031",
+      "price": 10000
+    },
+    {
+      "item": "nekorocoins:coin021",
+      "price": 100000
+    },
+    {
+      "item": "nekorocoins:coin040",
+      "price": 1000000
+    }
+  ]
+}

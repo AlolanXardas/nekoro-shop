@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "nekoroshop",
+  "version": "${version}",
+  "name": "Nekoro Shop",
+  "description": "A shop with its own money. Buy from and sell to the server shop, and sell to other players on a shared market at your own prices. Operators can change the server shop in game, and the money works with commands, so modpacks can choose how players earn it.",
+  "authors": [
+    "Alolan Xardas"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.xardas.nekoroshop.fabric.NekoroShopFabric"
+    ],
+    "client": [
+      "dev.xardas.nekoroshop.fabric.NekoroShopFabricClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
