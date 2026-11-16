@@ -14,7 +14,7 @@ Made for my [Nekoro Pokemon](https://www.curseforge.com/minecraft/modpacks/nekor
 
 ## Building
 
-Needs JDK 21. `source/build-all.ps1` builds NeoForge and Fabric for Minecraft 1.21.1 into `Gotowe/<version>`.
+Needs JDK 21. `source/build-all.ps1` builds NeoForge and Fabric for Minecraft 1.21.1 into `release/<version>`.
 
 ## License
 
